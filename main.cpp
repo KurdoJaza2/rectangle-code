@@ -58,6 +58,7 @@ int main()
     double RH;
 
 
+    cout << " i'm new \n";
 
 
     cout << " this program will calculate the area of a \n";
